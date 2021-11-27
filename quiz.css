@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    
+
+
+
+
+    margin: 0px;
+}
+
+
+
+
+div{
+    background-color: yellow;
+
+}
+.bts{
+
+    background-color:powderblue;
+    color: indigo;
+    padding: 15px;
+    width: 120px;
+
+}
+.bottom{
+    padding-bottom: 15px;
+}
